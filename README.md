@@ -17,4 +17,4 @@ Please fork this repository and the issue a pull request for review
 
 ### Copytight
 
-2018 Git.Training
+2018 Git.Training. All rights reserved.
