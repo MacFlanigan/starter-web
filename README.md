@@ -11,6 +11,8 @@ Any web server will do
 
 ## How to contribute
 
+Please fork this repository and the issue a pull request for review
+
 ### Copytight
 
 2018 Git.Training
