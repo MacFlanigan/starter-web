@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 Any web server will do
 
 ## How to contribute
+
+### Copytight
+
+2018 Git.Training
