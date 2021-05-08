@@ -1,3 +1,8 @@
 .DS_Store
 log/
 *.orig
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/starter-web.iml
+/.idea/vcs.xml
